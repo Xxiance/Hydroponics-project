@@ -39,7 +39,7 @@ void setup() {
 
   dht.begin(); //Initiate DHT sensor
 
-  //Initiate lcd
+  //Initiate LCD
   lcd.init();
   lcd.backlight();
 }
